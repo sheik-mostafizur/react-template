@@ -7,6 +7,7 @@ npm install react-router-dom localforage match-sorter sort-by
 npm install -D tailwindcss postcss autoprefixer
 npm i prettier-plugin-tailwindcss
 npx tailwindcss init -p
+npm install react-icons --save
 npm install firebase
 npm run dev
 ```
